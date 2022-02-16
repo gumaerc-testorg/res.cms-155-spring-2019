@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/res-cms-155-design-thinking-for-leading-and-learning-spring-2019/5f0534ecdc843d36846415375f684a1c_res-cms-155s19-th.jpg
+file: /media/courses/res-cms-155-design-thinking-for-leading-and-learning-spring-2019/5f0534ecdc843d36846415375f684a1c_res-cms-155s19-th.jpg
 file_type: image/jpeg
 image_metadata:
   caption: "Auguste Rodin's statue \"The Thinker.\" This resouce encourages educators\
@@ -10,6 +10,8 @@ image_metadata:
     \ License: Public Domain.)"
   credit: ''
   image-alt: 'Statue "The Thinker" of a man with his head on his chin. '
+learning_resource_types: []
+ocw_type: OCWImage
 resourcetype: Image
 title: res-cms-155s19-th.jpg
 uid: 5f0534ec-dc84-3d36-8464-15375f684a1c
