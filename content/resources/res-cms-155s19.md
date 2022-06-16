@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/res-cms-155-design-thinking-for-leading-and-learning-spring-2019/f2ebf49f3e2b35e94154786a97c99eac_res-cms-155s19.jpg
+file: /courses/res-cms-155-design-thinking-for-leading-and-learning-spring-2019/f2ebf49f3e2b35e94154786a97c99eac_res-cms-155s19.jpg
 file_type: image/jpeg
 image_metadata:
   caption: "Auguste Rodin's statue \"The Thinker.\" This resouce encourages educators\
