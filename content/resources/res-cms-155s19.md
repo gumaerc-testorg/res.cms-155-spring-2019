@@ -11,6 +11,7 @@ image_metadata:
   credit: ''
   image-alt: 'Statue "The Thinker" of a man with his head on his chin. '
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 resourcetype: Image
 title: res-cms-155s19.jpg
