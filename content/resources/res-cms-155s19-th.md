@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/res-cms-155-design-thinking-for-leading-and-learning-spring-2019/5f0534ecdc843d36846415375f684a1c_res-cms-155s19-th.jpg
+file: /ol-ocw-studio-app/courses/res-cms-155-design-thinking-for-leading-and-learning-spring-2019/5f0534ecdc843d36846415375f684a1c_res-cms-155s19-th.jpg
 file_size: 10890
 file_type: image/jpeg
 image_metadata:
