@@ -7,8 +7,8 @@ file_type: image/jpeg
 image_metadata:
   caption: "Auguste Rodin's statue \"The Thinker.\" This resouce encourages educators\
     \ to consider design thinking with real-world educational examples. (Image courtesy\
-    \ of\_{{% resource_link \"fe83aaf8-30f6-4e70-9a99-7517cb605ca4\" \"mustangjoe\"\
-    \ %}} on Flickr. License: Public Domain.)"
+    \ of\_[mustangjoe](https://www.flickr.com/photos/mustangjoe/5966894496) on Flickr.\
+    \ License: Public Domain.)"
   credit: ''
   image-alt: 'Statue "The Thinker" of a man with his head on his chin. '
 learning_resource_types: []
